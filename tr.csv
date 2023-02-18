@@ -1,0 +1,347 @@
+codigo_comuna,codigo_servicio_salud,nombre_servicio_salud,codigo_macro,nombre_macro
+01101,2,Iquique,1,Norte
+01107,2,Iquique,1,Norte
+01401,2,Iquique,1,Norte
+01402,2,Iquique,1,Norte
+01403,2,Iquique,1,Norte
+01404,2,Iquique,1,Norte
+01405,2,Iquique,1,Norte
+02101,3,Antofagasta,1,Norte
+02102,3,Antofagasta,1,Norte
+02103,3,Antofagasta,1,Norte
+02104,3,Antofagasta,1,Norte
+02201,3,Antofagasta,1,Norte
+02202,3,Antofagasta,1,Norte
+02203,3,Antofagasta,1,Norte
+02301,3,Antofagasta,1,Norte
+02302,3,Antofagasta,1,Norte
+03101,4,Atacama,2,Centro Norte
+03102,4,Atacama,2,Centro Norte
+03103,4,Atacama,2,Centro Norte
+03201,4,Atacama,2,Centro Norte
+03202,4,Atacama,2,Centro Norte
+03301,4,Atacama,2,Centro Norte
+03302,4,Atacama,2,Centro Norte
+03303,4,Atacama,2,Centro Norte
+03304,4,Atacama,2,Centro Norte
+04101,5,Coquimbo,2,Centro Norte
+04102,5,Coquimbo,2,Centro Norte
+04103,5,Coquimbo,2,Centro Norte
+04104,5,Coquimbo,2,Centro Norte
+04105,5,Coquimbo,2,Centro Norte
+04106,5,Coquimbo,2,Centro Norte
+04201,5,Coquimbo,2,Centro Norte
+04202,5,Coquimbo,2,Centro Norte
+04203,5,Coquimbo,2,Centro Norte
+04204,5,Coquimbo,2,Centro Norte
+04301,5,Coquimbo,2,Centro Norte
+04302,5,Coquimbo,2,Centro Norte
+04303,5,Coquimbo,2,Centro Norte
+04304,5,Coquimbo,2,Centro Norte
+04305,5,Coquimbo,2,Centro Norte
+05101,6,Valparaiso San Antonio,2,Centro Norte
+05102,6,Valparaiso San Antonio,2,Centro Norte
+05103,7,Vina del Mar Quillota,2,Centro Norte
+05104,6,Valparaiso San Antonio,2,Centro Norte
+05105,7,Vina del Mar Quillota,2,Centro Norte
+05107,7,Vina del Mar Quillota,2,Centro Norte
+05109,7,Vina del Mar Quillota,2,Centro Norte
+05201,6,Valparaiso San Antonio,2,Centro Norte
+05301,8,Aconcagua,2,Centro Norte
+05302,8,Aconcagua,2,Centro Norte
+05303,8,Aconcagua,2,Centro Norte
+05304,8,Aconcagua,2,Centro Norte
+05401,7,Vina del Mar Quillota,2,Centro Norte
+05402,7,Vina del Mar Quillota,2,Centro Norte
+05403,7,Vina del Mar Quillota,2,Centro Norte
+05404,7,Vina del Mar Quillota,2,Centro Norte
+05405,7,Vina del Mar Quillota,2,Centro Norte
+05501,7,Vina del Mar Quillota,2,Centro Norte
+05502,7,Vina del Mar Quillota,2,Centro Norte
+05503,7,Vina del Mar Quillota,2,Centro Norte
+05504,7,Vina del Mar Quillota,2,Centro Norte
+05506,7,Vina del Mar Quillota,2,Centro Norte
+05601,6,Valparaiso San Antonio,2,Centro Norte
+05602,6,Valparaiso San Antonio,2,Centro Norte
+05603,6,Valparaiso San Antonio,2,Centro Norte
+05604,6,Valparaiso San Antonio,2,Centro Norte
+05605,6,Valparaiso San Antonio,2,Centro Norte
+05606,6,Valparaiso San Antonio,2,Centro Norte
+05701,8,Aconcagua,2,Centro Norte
+05702,8,Aconcagua,2,Centro Norte
+05703,8,Aconcagua,2,Centro Norte
+05704,8,Aconcagua,2,Centro Norte
+05705,8,Aconcagua,2,Centro Norte
+05706,8,Aconcagua,2,Centro Norte
+05801,7,Vina del Mar Quillota,2,Centro Norte
+05802,7,Vina del Mar Quillota,2,Centro Norte
+05803,7,Vina del Mar Quillota,2,Centro Norte
+05804,7,Vina del Mar Quillota,2,Centro Norte
+06101,15,OHiggins,4,Centro Sur
+06102,15,OHiggins,4,Centro Sur
+06103,15,OHiggins,4,Centro Sur
+06104,15,OHiggins,4,Centro Sur
+06105,15,OHiggins,4,Centro Sur
+06106,15,OHiggins,4,Centro Sur
+06107,15,OHiggins,4,Centro Sur
+06108,15,OHiggins,4,Centro Sur
+06109,15,OHiggins,4,Centro Sur
+06110,15,OHiggins,4,Centro Sur
+06111,15,OHiggins,4,Centro Sur
+06112,15,OHiggins,4,Centro Sur
+06113,15,OHiggins,4,Centro Sur
+06114,15,OHiggins,4,Centro Sur
+06115,15,OHiggins,4,Centro Sur
+06116,15,OHiggins,4,Centro Sur
+06117,15,OHiggins,4,Centro Sur
+06201,15,OHiggins,4,Centro Sur
+06202,15,OHiggins,4,Centro Sur
+06203,15,OHiggins,4,Centro Sur
+06204,15,OHiggins,4,Centro Sur
+06205,15,OHiggins,4,Centro Sur
+06206,15,OHiggins,4,Centro Sur
+06301,15,OHiggins,4,Centro Sur
+06302,15,OHiggins,4,Centro Sur
+06303,15,OHiggins,4,Centro Sur
+06304,15,OHiggins,4,Centro Sur
+06305,15,OHiggins,4,Centro Sur
+06306,15,OHiggins,4,Centro Sur
+06307,15,OHiggins,4,Centro Sur
+06308,15,OHiggins,4,Centro Sur
+06309,15,OHiggins,4,Centro Sur
+06310,15,OHiggins,4,Centro Sur
+07101,16,del Maule,4,Centro Sur
+07102,16,del Maule,4,Centro Sur
+07103,16,del Maule,4,Centro Sur
+07104,16,del Maule,4,Centro Sur
+07105,16,del Maule,4,Centro Sur
+07106,16,del Maule,4,Centro Sur
+07107,16,del Maule,4,Centro Sur
+07108,16,del Maule,4,Centro Sur
+07109,16,del Maule,4,Centro Sur
+07110,16,del Maule,4,Centro Sur
+07201,16,del Maule,4,Centro Sur
+07202,16,del Maule,4,Centro Sur
+07203,16,del Maule,4,Centro Sur
+07301,16,del Maule,4,Centro Sur
+07302,16,del Maule,4,Centro Sur
+07303,16,del Maule,4,Centro Sur
+07304,16,del Maule,4,Centro Sur
+07305,16,del Maule,4,Centro Sur
+07306,16,del Maule,4,Centro Sur
+07307,16,del Maule,4,Centro Sur
+07308,16,del Maule,4,Centro Sur
+07309,16,del Maule,4,Centro Sur
+07401,16,del Maule,4,Centro Sur
+07402,16,del Maule,4,Centro Sur
+07403,16,del Maule,4,Centro Sur
+07404,16,del Maule,4,Centro Sur
+07405,16,del Maule,4,Centro Sur
+07406,16,del Maule,4,Centro Sur
+07407,16,del Maule,4,Centro Sur
+07408,16,del Maule,4,Centro Sur
+08101,18,Concepcion,5,Sur
+08102,18,Concepcion,5,Sur
+08103,18,Concepcion,5,Sur
+08104,18,Concepcion,5,Sur
+08105,18,Concepcion,5,Sur
+08106,18,Concepcion,5,Sur
+08107,19,Talcahuano,5,Sur
+08108,18,Concepcion,5,Sur
+08109,18,Concepcion,5,Sur
+08110,19,Talcahuano,5,Sur
+08111,19,Talcahuano,5,Sur
+08112,19,Talcahuano,5,Sur
+08201,28,Arauco,5,Sur
+08202,28,Arauco,5,Sur
+08203,28,Arauco,5,Sur
+08204,28,Arauco,5,Sur
+08205,28,Arauco,5,Sur
+08206,28,Arauco,5,Sur
+08207,28,Arauco,5,Sur
+08301,20,Biobio,5,Sur
+08302,20,Biobio,5,Sur
+08303,20,Biobio,5,Sur
+08304,20,Biobio,5,Sur
+08305,20,Biobio,5,Sur
+08306,20,Biobio,5,Sur
+08307,20,Biobio,5,Sur
+08308,20,Biobio,5,Sur
+08309,20,Biobio,5,Sur
+08310,20,Biobio,5,Sur
+08311,20,Biobio,5,Sur
+08312,20,Biobio,5,Sur
+08313,20,Biobio,5,Sur
+08314,20,Biobio,5,Sur
+09101,21,Araucania Sur,6,Extremo Sur
+09102,21,Araucania Sur,6,Extremo Sur
+09103,21,Araucania Sur,6,Extremo Sur
+09104,21,Araucania Sur,6,Extremo Sur
+09105,21,Araucania Sur,6,Extremo Sur
+09106,21,Araucania Sur,6,Extremo Sur
+09107,21,Araucania Sur,6,Extremo Sur
+09108,21,Araucania Sur,6,Extremo Sur
+09109,21,Araucania Sur,6,Extremo Sur
+09110,21,Araucania Sur,6,Extremo Sur
+09111,21,Araucania Sur,6,Extremo Sur
+09112,21,Araucania Sur,6,Extremo Sur
+09113,21,Araucania Sur,6,Extremo Sur
+09114,21,Araucania Sur,6,Extremo Sur
+09115,21,Araucania Sur,6,Extremo Sur
+09116,21,Araucania Sur,6,Extremo Sur
+09117,21,Araucania Sur,6,Extremo Sur
+09118,21,Araucania Sur,6,Extremo Sur
+09119,21,Araucania Sur,6,Extremo Sur
+09120,21,Araucania Sur,6,Extremo Sur
+09121,21,Araucania Sur,6,Extremo Sur
+09201,29,Araucania Norte,5,Sur
+09202,29,Araucania Norte,5,Sur
+09203,29,Araucania Norte,5,Sur
+09204,29,Araucania Norte,5,Sur
+09205,29,Araucania Norte,5,Sur
+09206,29,Araucania Norte,5,Sur
+09207,29,Araucania Norte,5,Sur
+09208,29,Araucania Norte,5,Sur
+09209,29,Araucania Norte,5,Sur
+09210,29,Araucania Norte,5,Sur
+09211,29,Araucania Norte,5,Sur
+10101,24,del Reloncavi,6,Extremo Sur
+10102,24,del Reloncavi,6,Extremo Sur
+10103,24,del Reloncavi,6,Extremo Sur
+10104,24,del Reloncavi,6,Extremo Sur
+10105,24,del Reloncavi,6,Extremo Sur
+10106,24,del Reloncavi,6,Extremo Sur
+10107,24,del Reloncavi,6,Extremo Sur
+10108,24,del Reloncavi,6,Extremo Sur
+10109,24,del Reloncavi,6,Extremo Sur
+10201,33,Chiloe,6,Extremo Sur
+10202,33,Chiloe,6,Extremo Sur
+10203,33,Chiloe,6,Extremo Sur
+10204,33,Chiloe,6,Extremo Sur
+10205,33,Chiloe,6,Extremo Sur
+10206,33,Chiloe,6,Extremo Sur
+10207,33,Chiloe,6,Extremo Sur
+10208,33,Chiloe,6,Extremo Sur
+10209,33,Chiloe,6,Extremo Sur
+10210,33,Chiloe,6,Extremo Sur
+10301,23,Osorno,6,Extremo Sur
+10302,23,Osorno,6,Extremo Sur
+10303,23,Osorno,6,Extremo Sur
+10304,23,Osorno,6,Extremo Sur
+10305,23,Osorno,6,Extremo Sur
+10306,23,Osorno,6,Extremo Sur
+10307,23,Osorno,6,Extremo Sur
+10401,24,del Reloncavi,6,Extremo Sur
+10402,24,del Reloncavi,6,Extremo Sur
+10403,24,del Reloncavi,6,Extremo Sur
+10404,24,del Reloncavi,6,Extremo Sur
+11101,25,Aysen,6,Extremo Sur
+11102,25,Aysen,6,Extremo Sur
+11201,25,Aysen,6,Extremo Sur
+11202,25,Aysen,6,Extremo Sur
+11203,25,Aysen,6,Extremo Sur
+11301,25,Aysen,6,Extremo Sur
+11302,25,Aysen,6,Extremo Sur
+11303,25,Aysen,6,Extremo Sur
+11401,25,Aysen,6,Extremo Sur
+11402,25,Aysen,6,Extremo Sur
+12101,26,Magallanes,6,Extremo Sur
+12102,26,Magallanes,6,Extremo Sur
+12103,26,Magallanes,6,Extremo Sur
+12104,26,Magallanes,6,Extremo Sur
+12201,26,Magallanes,6,Extremo Sur
+12202,26,Magallanes,6,Extremo Sur
+12301,26,Magallanes,6,Extremo Sur
+12302,26,Magallanes,6,Extremo Sur
+12303,26,Magallanes,6,Extremo Sur
+12401,26,Magallanes,6,Extremo Sur
+12402,26,Magallanes,6,Extremo Sur
+13101,11,Metropolitano Central,3,Metropolitana
+13102,11,Metropolitano Central,3,Metropolitana
+13103,10,Metropolitano Occidente,3,Metropolitana
+13104,9,Metropolitano Norte,3,Metropolitana
+13105,13,Metropolitano Sur,3,Metropolitana
+13106,11,Metropolitano Central,3,Metropolitana
+13107,9,Metropolitano Norte,3,Metropolitana
+13108,9,Metropolitano Norte,3,Metropolitana
+13109,13,Metropolitano Sur,3,Metropolitana
+13110,14,Metropolitano Suroriente,3,Metropolitana
+13111,14,Metropolitano Suroriente,3,Metropolitana
+13112,14,Metropolitano Suroriente,3,Metropolitana
+13113,12,Metropolitano Oriente,3,Metropolitana
+13114,12,Metropolitano Oriente,3,Metropolitana
+13115,12,Metropolitano Oriente,3,Metropolitana
+13116,13,Metropolitano Sur,3,Metropolitana
+13117,10,Metropolitano Occidente,3,Metropolitana
+13118,12,Metropolitano Oriente,3,Metropolitana
+13119,11,Metropolitano Central,3,Metropolitana
+13120,12,Metropolitano Oriente,3,Metropolitana
+13121,13,Metropolitano Sur,3,Metropolitana
+13122,12,Metropolitano Oriente,3,Metropolitana
+13123,12,Metropolitano Oriente,3,Metropolitana
+13124,10,Metropolitano Occidente,3,Metropolitana
+13125,9,Metropolitano Norte,3,Metropolitana
+13126,10,Metropolitano Occidente,3,Metropolitana
+13127,9,Metropolitano Norte,3,Metropolitana
+13128,10,Metropolitano Occidente,3,Metropolitana
+13129,13,Metropolitano Sur,3,Metropolitana
+13130,13,Metropolitano Sur,3,Metropolitana
+13131,14,Metropolitano Suroriente,3,Metropolitana
+13132,12,Metropolitano Oriente,3,Metropolitana
+13201,14,Metropolitano Suroriente,3,Metropolitana
+13202,14,Metropolitano Suroriente,3,Metropolitana
+13203,14,Metropolitano Suroriente,3,Metropolitana
+13301,9,Metropolitano Norte,3,Metropolitana
+13302,9,Metropolitano Norte,3,Metropolitana
+13303,9,Metropolitano Norte,3,Metropolitana
+13401,13,Metropolitano Sur,3,Metropolitana
+13402,13,Metropolitano Sur,3,Metropolitana
+13403,13,Metropolitano Sur,3,Metropolitana
+13404,13,Metropolitano Sur,3,Metropolitana
+13501,10,Metropolitano Occidente,3,Metropolitana
+13502,10,Metropolitano Occidente,3,Metropolitana
+13503,10,Metropolitano Occidente,3,Metropolitana
+13504,10,Metropolitano Occidente,3,Metropolitana
+13505,10,Metropolitano Occidente,3,Metropolitana
+13601,10,Metropolitano Occidente,3,Metropolitana
+13602,10,Metropolitano Occidente,3,Metropolitana
+13603,10,Metropolitano Occidente,3,Metropolitana
+13604,10,Metropolitano Occidente,3,Metropolitana
+13605,10,Metropolitano Occidente,3,Metropolitana
+14101,22,Valdivia,6,Extremo Sur
+14102,22,Valdivia,6,Extremo Sur
+14103,22,Valdivia,6,Extremo Sur
+14104,22,Valdivia,6,Extremo Sur
+14105,22,Valdivia,6,Extremo Sur
+14106,22,Valdivia,6,Extremo Sur
+14107,22,Valdivia,6,Extremo Sur
+14108,22,Valdivia,6,Extremo Sur
+14201,22,Valdivia,6,Extremo Sur
+14202,22,Valdivia,6,Extremo Sur
+14203,22,Valdivia,6,Extremo Sur
+14204,22,Valdivia,6,Extremo Sur
+15101,1,Arica,1,Norte
+15102,1,Arica,1,Norte
+15201,1,Arica,1,Norte
+15202,1,Arica,1,Norte
+16101,17,Nuble,5,Sur
+16102,17,Nuble,5,Sur
+16103,17,Nuble,5,Sur
+16104,17,Nuble,5,Sur
+16105,17,Nuble,5,Sur
+16106,17,Nuble,5,Sur
+16107,17,Nuble,5,Sur
+16108,17,Nuble,5,Sur
+16109,17,Nuble,5,Sur
+16201,17,Nuble,5,Sur
+16202,17,Nuble,5,Sur
+16203,17,Nuble,5,Sur
+16204,17,Nuble,5,Sur
+16205,17,Nuble,5,Sur
+16206,17,Nuble,5,Sur
+16207,17,Nuble,5,Sur
+16301,17,Nuble,5,Sur
+16302,17,Nuble,5,Sur
+16303,17,Nuble,5,Sur
+16304,17,Nuble,5,Sur
+16305,17,Nuble,5,Sur
